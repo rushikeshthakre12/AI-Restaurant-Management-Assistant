@@ -1,6 +1,6 @@
 # AI Restaurant Management Assistant
 
-A working MCA integrated project combining NLP, Machine Learning, Deep
+A working project combining NLP, Machine Learning, Deep
 Learning, Transformer components, a recommendation system, sentiment
 analysis, MySQL-style relational data, and a Streamlit UI.
 
