@@ -1,0 +1,40 @@
+# --- Core app ---
+streamlit==1.38.0
+python-dotenv==1.0.1
+
+# --- Database ---
+mysql-connector-python==9.0.0
+SQLAlchemy==2.0.35
+
+# --- Data processing ---
+pandas==2.2.2
+numpy==1.26.4
+
+# --- NLP ---
+nltk==3.9.1
+spacy==3.7.6
+gensim==4.3.3
+
+# --- ML ---
+scikit-learn==1.5.1
+joblib==1.4.2
+
+# --- Deep Learning ---
+torch==2.4.1
+
+# --- Transformers / GenAI ---
+transformers==4.44.2
+
+# --- Visualization ---
+matplotlib==3.9.2
+plotly==5.24.0
+
+# --- PDF billing ---
+fpdf2==2.7.9
+
+# --- Testing ---
+pytest==8.3.2
+
+# Note: after installing, also run once:
+#   python -m spacy download en_core_web_sm
+#   python -m nltk.downloader punkt stopwords wordnet averaged_perceptron_tagger

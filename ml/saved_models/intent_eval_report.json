@@ -1,0 +1,16 @@
+{
+  "logistic_regression": {
+    "accuracy": 1.0,
+    "precision_macro": 1.0,
+    "recall_macro": 1.0,
+    "f1_macro": 1.0,
+    "classification_report": "                     precision    recall  f1-score   support\n\n     cancel_booking       1.00      1.00      1.00         8\n       cancel_order       1.00      1.00      1.00         8\n          complaint       1.00      1.00      1.00         8\nfood_recommendation       1.00      1.00      1.00         9\n            goodbye       1.00      1.00      1.00         8\n           greeting       1.00      1.00      1.00        10\n         menu_query       1.00      1.00      1.00        10\n     modify_booking       1.00      1.00      1.00         8\n       modify_order       1.00      1.00      1.00         8\n      payment_query       1.00      1.00      1.00         8\n        place_order       1.00      1.00      1.00        10\n     previous_order       1.00      1.00      1.00         8\n   restaurant_hours       1.00      1.00      1.00         8\nrestaurant_location       1.00      1.00      1.00         8\n             review       1.00      1.00      1.00         8\n      table_booking       1.00      1.00      1.00        10\n            unknown       1.00      1.00      1.00         8\n\n           accuracy                           1.00       145\n          macro avg       1.00      1.00      1.00       145\n       weighted avg       1.00      1.00      1.00       145\n"
+  },
+  "naive_bayes": {
+    "accuracy": 1.0,
+    "precision_macro": 1.0,
+    "recall_macro": 1.0,
+    "f1_macro": 1.0,
+    "classification_report": "                     precision    recall  f1-score   support\n\n     cancel_booking       1.00      1.00      1.00         8\n       cancel_order       1.00      1.00      1.00         8\n          complaint       1.00      1.00      1.00         8\nfood_recommendation       1.00      1.00      1.00         9\n            goodbye       1.00      1.00      1.00         8\n           greeting       1.00      1.00      1.00        10\n         menu_query       1.00      1.00      1.00        10\n     modify_booking       1.00      1.00      1.00         8\n       modify_order       1.00      1.00      1.00         8\n      payment_query       1.00      1.00      1.00         8\n        place_order       1.00      1.00      1.00        10\n     previous_order       1.00      1.00      1.00         8\n   restaurant_hours       1.00      1.00      1.00         8\nrestaurant_location       1.00      1.00      1.00         8\n             review       1.00      1.00      1.00         8\n      table_booking       1.00      1.00      1.00        10\n            unknown       1.00      1.00      1.00         8\n\n           accuracy                           1.00       145\n          macro avg       1.00      1.00      1.00       145\n       weighted avg       1.00      1.00      1.00       145\n"
+  }
+}

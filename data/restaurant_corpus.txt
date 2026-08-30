@@ -1,0 +1,31 @@
+the paneer tikka is a popular starter made with grilled cottage cheese
+paneer pizza is topped with cheese and fresh vegetables
+margherita pizza is a classic pizza with tomato sauce and basil
+veg biryani is fragrant basmati rice cooked with mixed vegetables and spices
+chicken biryani is basmati rice cooked with tender chicken and aromatic spices
+butter chicken is chicken simmered in a creamy tomato and butter gravy
+spicy veg pasta is penne tossed in a fiery tomato and chili sauce
+veg manchurian is a spicy indo chinese starter made with vegetable balls
+masala dosa is a crispy rice crepe filled with spiced potato masala
+chole bhature is a north indian dish of spiced chickpea curry with fried bread
+cold coffee is a chilled blended coffee drink with milk and ice cream
+coke is a chilled carbonated soft drink
+gulab jamun is a sweet dessert made of soft milk solid dumplings in sugar syrup
+veg thali includes rice roti mixed curries and a dessert
+fish curry is a tangy coastal curry cooked in coconut gravy
+spring rolls are crispy fried rolls stuffed with vegetables
+tandoori chicken is chicken marinated in yogurt and spices then grilled
+lassi is a sweet yogurt based chilled beverage
+veg fried rice is rice tossed with mixed vegetables and soy sauce
+chocolate brownie is a warm fudgy dessert served with ice cream
+customers can book a table for any number of people at a preferred time
+a booking can be modified or cancelled anytime before the reservation
+customers can order food directly through the chatbot using natural language
+the restaurant accepts cash card upi and digital wallet payments
+customers can leave a review after their meal describing food and service
+the restaurant is open every day from morning until late night
+the recommendation system suggests dishes based on price category and spice level
+sentiment analysis studies whether a review is positive negative or neutral
+pizza and pasta are both popular main course items ordered together
+biryani and pulao are both rice based dishes with similar spices
+reservation and booking mean the same thing at this restaurant

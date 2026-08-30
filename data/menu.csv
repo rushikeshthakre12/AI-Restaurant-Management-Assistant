@@ -1,0 +1,21 @@
+item_id,name,category,description,price,vegetarian,spicy,ingredients,rating,available
+1,Paneer Tikka,Starter,Char-grilled cottage cheese cubes marinated in spiced yogurt,249,1,1,paneer;yogurt;chili;capsicum;onion,4.5,1
+2,Veg Biryani,Main Course,Fragrant basmati rice layered with mixed vegetables and spices,199,1,1,rice;mixed vegetables;saffron;spices,4.2,1
+3,Spicy Veg Pasta,Main Course,Penne tossed in a fiery red chili and tomato sauce,279,1,1,penne;tomato;chili;garlic;basil,4.3,1
+4,Paneer Pizza,Main Course,Wood-fired pizza topped with paneer chunks and bell peppers,299,1,0,cheese;paneer;capsicum;tomato sauce,4.6,1
+5,Margherita Pizza,Main Course,Classic pizza with tomato sauce mozzarella and basil,249,1,0,cheese;tomato sauce;basil,4.4,1
+6,Chicken Biryani,Main Course,Slow-cooked basmati rice with tender chicken and spices,289,0,1,chicken;rice;saffron;spices,4.7,1
+7,Butter Chicken,Main Course,Chicken simmered in a creamy tomato and butter gravy,329,0,0,chicken;butter;tomato;cream,4.8,1
+8,Veg Manchurian,Starter,Deep-fried vegetable balls tossed in a spicy Indo-Chinese sauce,219,1,1,mixed vegetables;soy sauce;chili;garlic,4.1,1
+9,Masala Dosa,South Indian,Crispy rice crepe filled with spiced potato masala,179,1,1,rice batter;potato;mustard seeds;curry leaves,4.5,1
+10,Chole Bhature,North Indian,Spiced chickpea curry served with deep-fried bread,229,1,1,chickpeas;flour;spices,4.4,1
+11,Cold Coffee,Beverage,Chilled blended coffee with milk and ice cream,120,1,0,coffee;milk;sugar;ice cream,4.3,1
+12,Coke,Beverage,Chilled carbonated soft drink,60,1,0,carbonated water;sugar;caramel,4.0,1
+13,Gulab Jamun,Dessert,Soft milk-solid dumplings soaked in sugar syrup,99,1,0,milk solids;sugar;cardamom,4.6,1
+14,Veg Thali,Main Course,Assorted vegetarian curries rice roti and dessert,349,1,0,rice;roti;mixed curries;dessert,4.5,1
+15,Fish Curry,Main Course,Tangy coastal-style fish curry cooked in coconut gravy,359,0,1,fish;coconut;tamarind;spices,4.6,1
+16,Spring Rolls,Starter,Crispy fried rolls stuffed with vegetables,179,1,0,cabbage;carrot;flour wrapper,4.2,1
+17,Tandoori Chicken,Starter,Char-grilled chicken marinated in yogurt and spices,329,0,1,chicken;yogurt;tandoori masala,4.7,1
+18,Lassi,Beverage,Sweet yogurt-based chilled beverage,99,1,0,yogurt;sugar;cardamom,4.3,1
+19,Veg Fried Rice,Main Course,Wok-tossed rice with mixed vegetables and soy sauce,189,1,0,rice;mixed vegetables;soy sauce,4.1,1
+20,Chocolate Brownie,Dessert,Warm fudgy chocolate brownie served with ice cream,159,1,0,chocolate;flour;butter;ice cream,4.7,1

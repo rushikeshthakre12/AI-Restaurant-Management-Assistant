@@ -1,0 +1,725 @@
+text,intent
+reduce my order by one item,modify_order
+what are your restaurant timings,restaurant_hours
+hiya,greeting
+show me vegetarian dishes,menu_query
+book me a table for 6 tonight at 6:30 pm,table_booking
+add one more coke to my order,modify_order
+cancel this order immediately,cancel_order
+thanks bye,goodbye
+hi,greeting
+the dessert was the best part of the meal,review
+good afternoon,greeting
+suggest something spicy under 150,food_recommendation
+suggest something not too spicy,food_recommendation
+how do i pay for my order,payment_query
+book a table for 8 people at 7 pm,table_booking
+thanks bye,goodbye
+what did i order last time,previous_order
+hi there,greeting
+can i pay online,payment_query
+the dessert was the best part of the meal,review
+i am not happy with the service,complaint
+please cancel my table booking,cancel_booking
+i changed my mind cancel the order,cancel_order
+the food was excellent but the service was slow,review
+recommend a dish similar to paneer tikka,food_recommendation
+book a table for 8 people at 8 pm,table_booking
+cancel my reservation for saturday,cancel_booking
+place order for spicy veg pasta,place_order
+please change my table booking to 3 people,modify_booking
+suggest a popular main course,food_recommendation
+cancel my booking,cancel_booking
+the ambience was wonderful and food was tasty,review
+suggest something not too spicy,food_recommendation
+what is on the menu today,menu_query
+where is the restaurant,restaurant_location
+the food quality was very poor today,complaint
+recommend something for dinner,food_recommendation
+i want to modify my current order,modify_order
+thank you goodbye,goodbye
+i want to modify my current order,modify_order
+where exactly are you situated,restaurant_location
+tell me a joke,unknown
+bye,goodbye
+what main courses do you offer,menu_query
+update my reservation time to 6:30 pm,modify_booking
+good morning,greeting
+please book a table for 2 guests at 7 pm,table_booking
+i want to change my table time to 9 pm,modify_booking
+cancel this order immediately,cancel_order
+please change my table booking to 3 people,modify_booking
+change the guest count to 2 for my booking,modify_booking
+cancel my reservation for saturday,cancel_booking
+that is all for now bye,goodbye
+i would like to book a table for 3 people,table_booking
+good evening,greeting
+please change my table booking to 3 people,modify_booking
+what are your opening hours,restaurant_hours
+how do i get to your restaurant,restaurant_location
+the service was quick and the staff was friendly,review
+reschedule my reservation to 8 pm,modify_booking
+what time do you open tomorrow,restaurant_hours
+what is the restaurant address,restaurant_location
+i want to cancel my reservation,cancel_booking
+thank you for your help bye,goodbye
+table booking for 5 people at 8:30 pm on sunday,table_booking
+place an order for 8 pizzas,place_order
+goodbye,goodbye
+are you open on public holidays,restaurant_hours
+reduce my order by one item,modify_order
+the service was quick and the staff was friendly,review
+bye,goodbye
+the food was excellent but the service was slow,review
+what vegetarian options are available,menu_query
+show my order history for this month,previous_order
+my order was incorrect,complaint
+can you book a table for 2 people on saturday at 6:30 pm,table_booking
+please cancel my pizza order,cancel_order
+modify my booking to 2 people,modify_booking
+suggest a good starter,food_recommendation
+increase the quantity of paneer tikka to 8,modify_order
+good afternoon,greeting
+are you open on public holidays,restaurant_hours
+what time do you open tomorrow,restaurant_hours
+reserve a table for 3 tomorrow at 8:30 pm,table_booking
+i would like to book a table for 5 people,table_booking
+can i see the food menu,menu_query
+is cash on delivery available,payment_query
+what have i ordered before,previous_order
+table for 6 at 7:30 pm please,table_booking
+thank you goodbye,goodbye
+the service was quick and the staff was friendly,review
+are you open on public holidays,restaurant_hours
+show me vegetarian dishes,menu_query
+the service was quick and the staff was friendly,review
+what vegetarian options are available,menu_query
+ok thanks bye,goodbye
+do you have parking at your location,restaurant_location
+can you cancel my booking,cancel_booking
+do you accept cards,payment_query
+cancel my order,cancel_order
+is there a payment gateway,payment_query
+good afternoon,greeting
+what is on the menu today,menu_query
+i really enjoyed my meal today,review
+can i pay by card at the counter,payment_query
+hello,greeting
+i need a reservation for 5 people at 6:30 pm,table_booking
+tell me a joke,unknown
+order one butter chicken and two rotis,place_order
+i want to cancel my food order,cancel_order
+how far is the restaurant from the mall,restaurant_location
+do you accept upi payments,payment_query
+ok thanks bye,goodbye
+please book a table for 3 guests at 7:30 pm,table_booking
+show my order history for this month,previous_order
+remove my table reservation,cancel_booking
+i want to cancel my food order,cancel_order
+order one butter chicken and two rotis,place_order
+recommend a vegetarian dish,food_recommendation
+what are your restaurant timings,restaurant_hours
+can i see my past orders,previous_order
+what are your restaurant timings,restaurant_hours
+recommend a dish similar to paneer tikka,food_recommendation
+list all dishes under 250 rupees,menu_query
+can you book a table for 2 people on saturday at 8:30 pm,table_booking
+hey there,greeting
+i want two paneer pizzas and one coke,place_order
+do you have parking at your location,restaurant_location
+when do you open,restaurant_hours
+hi i need some help,greeting
+the biryani was amazing,review
+what main courses do you offer,menu_query
+order two paneer pizzas and one coke,place_order
+list your starters,menu_query
+place order for spicy veg pasta,place_order
+see you next time,goodbye
+the ambience was wonderful and food was tasty,review
+when does the restaurant open on sunday,restaurant_hours
+suggest something not too spicy,food_recommendation
+recommend a dish similar to paneer tikka,food_recommendation
+do you accept cards,payment_query
+do you accept cards,payment_query
+i want to order 3 paneer pizzas,place_order
+are you open now,restaurant_hours
+great food loved the paneer tikka,review
+can you recommend a dessert,food_recommendation
+thank you for your help bye,goodbye
+when do you open,restaurant_hours
+add 3 veg biryani to my cart,place_order
+can i see my past orders,previous_order
+i want to cancel my reservation,cancel_booking
+what did i order last time,previous_order
+can you cancel my booking,cancel_booking
+hey,greeting
+what should i order,food_recommendation
+i am not happy with the service,complaint
+i want to order masala dosa,place_order
+how do i pay for my order,payment_query
+show me non vegetarian items,menu_query
+show my previous orders,previous_order
+can i see the food menu,menu_query
+average food nothing special,review
+what time is it,unknown
+i need a reservation for 4 people at 7 pm,table_booking
+please cancel the order,cancel_order
+what time do you close,restaurant_hours
+my order was incorrect,complaint
+send me your location,restaurant_location
+order 3 cold coffees,place_order
+change my order quantity to 6,modify_order
+book a table for 3 people at 7:30 pm,table_booking
+thank you goodbye,goodbye
+show me my last order,previous_order
+what desserts do you have,menu_query
+this is the worst experience i have had,complaint
+change my order to two portions,modify_order
+cancel order number,cancel_order
+cancel my recent order,cancel_order
+suggest a popular main course,food_recommendation
+book me a table for 3 tonight at 6:30 pm,table_booking
+book me a table for 8 tonight at 6:30 pm,table_booking
+reserve a table for 3 tomorrow at 8 pm,table_booking
+add gulab jamun to my order,place_order
+tell me a joke,unknown
+thank you for your help bye,goodbye
+see you later,goodbye
+what have i ordered before,previous_order
+show my order history,previous_order
+please cancel my table booking,cancel_booking
+i want to complain about the service,complaint
+recommend something for dinner,food_recommendation
+good evening,greeting
+i want to modify my current order,modify_order
+thank you for your help bye,goodbye
+what payment methods do you accept,payment_query
+who is the prime minister,unknown
+show my past reservations,previous_order
+remove one pizza from my order,modify_order
+table for 2 at 6:30 pm please,table_booking
+edit my order please,modify_order
+can i change my booking date,modify_booking
+i want to book a table for 2 at 7 pm,table_booking
+i want to complain about the service,complaint
+the delivery took too long,complaint
+i want to cancel my food order,cancel_order
+add 8 veg biryani to my cart,place_order
+bye have a good day,goodbye
+how far is the restaurant from the mall,restaurant_location
+can i pay by card at the counter,payment_query
+reduce my order by one item,modify_order
+do you accept digital wallets,payment_query
+add gulab jamun to my order,place_order
+reserve a table for 3 this weekend at 8:30 pm,table_booking
+increase the quantity of paneer tikka to 8,modify_order
+i need to cancel my reservation for tomorrow,cancel_booking
+i really enjoyed my meal today,review
+what is your address,restaurant_location
+show me your beverages,menu_query
+reserve a table for 2 tomorrow at 7:30 pm,table_booking
+what is the weather today,unknown
+what desserts do you have,menu_query
+list all my previous bookings,previous_order
+reschedule my reservation to 9 pm,modify_booking
+please cancel my table booking,cancel_booking
+list your starters,menu_query
+can you share your location,restaurant_location
+hey,greeting
+show me my last order,previous_order
+what is the capital of france,unknown
+tell me a story,unknown
+how do i pay for my order,payment_query
+the ambience was wonderful and food was tasty,review
+that is all for now bye,goodbye
+the biryani was amazing,review
+ok thanks bye,goodbye
+shift my reservation to 8:30 pm,modify_booking
+order two paneer pizzas and one coke,place_order
+i want to change my table time to 6:30 pm,modify_booking
+good evening,greeting
+can you write code for me,unknown
+what are your opening hours,restaurant_hours
+good evening,greeting
+show me non vegetarian items,menu_query
+hey,greeting
+add one more coke to my order,modify_order
+show me spicy dishes,menu_query
+do you accept digital wallets,payment_query
+remove my entire order,cancel_order
+i had a bad experience with the service,complaint
+what time do you open tomorrow,restaurant_hours
+cancel this order immediately,cancel_order
+can i get a table for 6 at 8:30 pm tomorrow,table_booking
+my order was incorrect,complaint
+what is the weather today,unknown
+remove my table reservation,cancel_booking
+i want to change my table time to 7:30 pm,modify_booking
+edit my order please,modify_order
+i do not want the order anymore,cancel_order
+what payment methods do you accept,payment_query
+the food quality was very poor today,complaint
+modify my booking to 3 people,modify_booking
+hello restaurant,greeting
+hi there,greeting
+can you move my reservation to 8 pm,modify_booking
+i want to complain about the service,complaint
+hello,greeting
+what time is it,unknown
+please book a table for 8 guests at 8:30 pm,table_booking
+show me vegetarian dishes,menu_query
+can you cancel my booking,cancel_booking
+play some music,unknown
+cancel my booking,cancel_booking
+can i pay by card at the counter,payment_query
+i want to change my table time to 7 pm,modify_booking
+what is your favorite color,unknown
+place order for spicy veg pasta,place_order
+bye,goodbye
+see you next time,goodbye
+food was okay but overpriced,review
+table booking for 8 people at 6:30 pm on sunday,table_booking
+what is your best dish,food_recommendation
+i want to complain about the service,complaint
+can i change my booking date,modify_booking
+cancel my booking,cancel_booking
+please cancel the order,cancel_order
+what is the weather today,unknown
+i do not want the table anymore cancel it,cancel_booking
+i want two paneer pizzas and one coke,place_order
+cancel order number,cancel_order
+where are you located,restaurant_location
+list all my previous bookings,previous_order
+please change my table booking to 8 people,modify_booking
+what payment methods do you accept,payment_query
+list all dishes under 150 rupees,menu_query
+show me the menu,menu_query
+bye,goodbye
+can i pay online,payment_query
+what time do you close,restaurant_hours
+what are your restaurant timings,restaurant_hours
+order one butter chicken and two rotis,place_order
+food was okay but overpriced,review
+update my order to 4 items,modify_order
+how far is the restaurant from the mall,restaurant_location
+i need to cancel my reservation for tomorrow,cancel_booking
+the staff was rude to me,complaint
+the staff was rude to me,complaint
+hey there,greeting
+suggest something spicy under 200,food_recommendation
+suggest vegetarian spicy food under 150,food_recommendation
+suggest a good starter,food_recommendation
+i want to order masala dosa,place_order
+get me 4 chole bhature,place_order
+edit my order please,modify_order
+show me non vegetarian items,menu_query
+remove my table reservation,cancel_booking
+hello can you help me,greeting
+cancel my booking,cancel_booking
+can you recommend a dessert,food_recommendation
+how far is the moon,unknown
+add 6 veg biryani to my cart,place_order
+i am not happy with the service,complaint
+add gulab jamun to my order,place_order
+can you move my reservation to 8 pm,modify_booking
+cancel my order,cancel_order
+cancel my reservation for saturday,cancel_booking
+tell me a joke,unknown
+what is your address,restaurant_location
+show my previous orders,previous_order
+what is your favorite color,unknown
+bye have a good day,goodbye
+can i pay online,payment_query
+send me your location,restaurant_location
+where are you located,restaurant_location
+how do i get to your restaurant,restaurant_location
+that is all for now bye,goodbye
+i would like to order chicken biryani,place_order
+what do you recommend,food_recommendation
+i do not want the order anymore,cancel_order
+the food quality was very poor today,complaint
+when do you close tonight,restaurant_hours
+hi i need some help,greeting
+cancel booking please,cancel_booking
+what is your favorite color,unknown
+change my booking to 8:30 pm,modify_booking
+remove my entire order,cancel_order
+list all my previous bookings,previous_order
+what did i order last time,previous_order
+recommend something for dinner,food_recommendation
+show my order history,previous_order
+what is the capital of france,unknown
+change my booking to 7 pm,modify_booking
+this is the worst experience i have had,complaint
+goodbye,goodbye
+please book a table for 3 guests at 6:30 pm,table_booking
+show me spicy dishes,menu_query
+i really enjoyed my meal today,review
+recommend a vegetarian dish,food_recommendation
+change my order quantity to 5,modify_order
+show me vegetarian dishes,menu_query
+show me spicy dishes,menu_query
+i want to book a table for 3 at 9 pm,table_booking
+my order was delayed by an hour,complaint
+till what time are you open,restaurant_hours
+hello,greeting
+shift my reservation to 7 pm,modify_booking
+add one more coke to my order,modify_order
+recommend a dish similar to paneer tikka,food_recommendation
+how far is the moon,unknown
+what is on the menu today,menu_query
+give me my order history,previous_order
+where is the restaurant,restaurant_location
+what is your best dish,food_recommendation
+show me the menu,menu_query
+hi there,greeting
+i would like to order chicken biryani,place_order
+can you book a table for 4 people on saturday at 8 pm,table_booking
+i really enjoyed my meal today,review
+i want to modify my current order,modify_order
+how can i pay,payment_query
+change my order to two portions,modify_order
+i want to book a table for 6 at 8:30 pm,table_booking
+how do i pay for my order,payment_query
+wonderful experience will visit again,review
+the dessert was the best part of the meal,review
+can you share your location,restaurant_location
+hiya,greeting
+i want to cancel my reservation,cancel_booking
+who is the prime minister,unknown
+the staff was rude to me,complaint
+list your starters,menu_query
+increase the quantity of paneer tikka to 6,modify_order
+show my order history for this month,previous_order
+please cancel my pizza order,cancel_order
+average food nothing special,review
+order one butter chicken and two rotis,place_order
+i want to book a table for 6 at 7:30 pm,table_booking
+change the guest count to 6 for my booking,modify_booking
+i would like to book a table for 5 people,table_booking
+show me my last order,previous_order
+the ambience was wonderful and food was tasty,review
+cancel my order,cancel_order
+show my order history,previous_order
+cancel this order immediately,cancel_order
+order 3 cold coffees,place_order
+can i get a table for 3 at 6:30 pm tomorrow,table_booking
+what is on the menu today,menu_query
+how can i pay,payment_query
+i do not want the table anymore cancel it,cancel_booking
+that is all for now bye,goodbye
+what do you recommend,food_recommendation
+the dessert was the best part of the meal,review
+can you share your location,restaurant_location
+reserve a table for 4 tomorrow at 8 pm,table_booking
+give me my order history,previous_order
+what is the weather today,unknown
+table for 2 at 9 pm please,table_booking
+remove my table reservation,cancel_booking
+reserve a table for 8 this weekend at 8 pm,table_booking
+do you have parking at your location,restaurant_location
+hey there,greeting
+i want to cancel my reservation,cancel_booking
+cancel booking please,cancel_booking
+good morning,greeting
+remove my entire order,cancel_order
+what have i ordered before,previous_order
+remove one pizza from my order,modify_order
+please cancel my pizza order,cancel_order
+good afternoon,greeting
+remove one pizza from my order,modify_order
+tell me a story,unknown
+show me the menu,menu_query
+hello restaurant,greeting
+i want to order 3 paneer pizzas,place_order
+i do not want the order anymore,cancel_order
+tell me a story,unknown
+average food nothing special,review
+hello can you help me,greeting
+show my order history,previous_order
+i do not want the table anymore cancel it,cancel_booking
+this is the worst experience i have had,complaint
+is there a payment gateway,payment_query
+list all my previous bookings,previous_order
+can you move my reservation to 9 pm,modify_booking
+what have i ordered before,previous_order
+cancel my recent order,cancel_order
+where exactly are you situated,restaurant_location
+what is your address,restaurant_location
+recommend a vegetarian dish,food_recommendation
+cancel my table for tonight,cancel_booking
+update my reservation time to 6:30 pm,modify_booking
+i had a bad experience with the service,complaint
+what is your favorite color,unknown
+the staff was rude to me,complaint
+table booking for 6 people at 8 pm on sunday,table_booking
+how can i pay,payment_query
+when do you close tonight,restaurant_hours
+i need a reservation for 2 people at 8:30 pm,table_booking
+show my past reservations,previous_order
+the delivery took too long,complaint
+what is the capital of france,unknown
+my order was delayed by an hour,complaint
+goodbye,goodbye
+i would like to order chicken biryani,place_order
+i want two paneer pizzas and one coke,place_order
+average food nothing special,review
+what is the restaurant address,restaurant_location
+good morning,greeting
+see you next time,goodbye
+get me 6 chole bhature,place_order
+see you later,goodbye
+what do you recommend,food_recommendation
+show me my last order,previous_order
+can i get a table for 3 at 8 pm tomorrow,table_booking
+i want to cancel my food order,cancel_order
+can i see the food menu,menu_query
+thank you goodbye,goodbye
+increase the quantity of paneer tikka to 2,modify_order
+can you change my order,modify_order
+shift my reservation to 8:30 pm,modify_booking
+can i see my past orders,previous_order
+good morning,greeting
+suggest vegetarian spicy food under 200,food_recommendation
+show me spicy dishes,menu_query
+change my booking to 7:30 pm,modify_booking
+do you accept upi payments,payment_query
+the food was cold when it arrived,complaint
+i need to cancel my reservation for tomorrow,cancel_booking
+where is the restaurant,restaurant_location
+the food was excellent but the service was slow,review
+great food loved the paneer tikka,review
+i want to order 2 paneer pizzas,place_order
+cancel order number,cancel_order
+i do not want the order anymore,cancel_order
+what is your best dish,food_recommendation
+what main courses do you offer,menu_query
+when does the restaurant open on sunday,restaurant_hours
+what did i order last time,previous_order
+do you accept upi payments,payment_query
+do you accept upi payments,payment_query
+i had a bad experience with the service,complaint
+remove my entire order,cancel_order
+tell me a story,unknown
+do you accept digital wallets,payment_query
+send me your location,restaurant_location
+can you write code for me,unknown
+what payment methods do you accept,payment_query
+food was okay but overpriced,review
+place an order for 6 pizzas,place_order
+see you next time,goodbye
+is cash on delivery available,payment_query
+till what time are you open,restaurant_hours
+hi there,greeting
+please cancel my pizza order,cancel_order
+great food loved the paneer tikka,review
+show me non vegetarian items,menu_query
+can you book a table for 6 people on saturday at 7 pm,table_booking
+when does the restaurant open on sunday,restaurant_hours
+where exactly are you situated,restaurant_location
+the biryani was amazing,review
+are you open now,restaurant_hours
+i had a bad experience with the service,complaint
+table for 8 at 9 pm please,table_booking
+list all dishes under 250 rupees,menu_query
+change the guest count to 2 for my booking,modify_booking
+i changed my mind cancel the order,cancel_order
+what do you recommend,food_recommendation
+reschedule my reservation to 6:30 pm,modify_booking
+can you move my reservation to 8 pm,modify_booking
+i would like to book a table for 3 people,table_booking
+change my order quantity to 8,modify_order
+i am not happy with the service,complaint
+i want to order 8 paneer pizzas,place_order
+the food was excellent but the service was slow,review
+place an order for 2 pizzas,place_order
+reserve a table for 3 this weekend at 7 pm,table_booking
+what is your address,restaurant_location
+order two paneer pizzas and one coke,place_order
+recommend something for dinner,food_recommendation
+can i see my past orders,previous_order
+is cash on delivery available,payment_query
+can you write code for me,unknown
+what should i order,food_recommendation
+can you recommend a dessert,food_recommendation
+can you share your location,restaurant_location
+how far is the moon,unknown
+can i change my booking date,modify_booking
+where is the restaurant,restaurant_location
+till what time are you open,restaurant_hours
+give me my order history,previous_order
+how do i get to your restaurant,restaurant_location
+change my order quantity to 4,modify_order
+can i pay online,payment_query
+what time is it,unknown
+change my booking to 8 pm,modify_booking
+what is the restaurant address,restaurant_location
+cancel booking please,cancel_booking
+who is the prime minister,unknown
+book a table for 8 people at 6:30 pm,table_booking
+how far is the restaurant from the mall,restaurant_location
+do you accept cards,payment_query
+what dishes do you have,menu_query
+what vegetarian options are available,menu_query
+what time do you open tomorrow,restaurant_hours
+cancel my table for tonight,cancel_booking
+hello,greeting
+play some music,unknown
+suggest vegetarian spicy food under 200,food_recommendation
+see you later,goodbye
+show my order history for this month,previous_order
+i changed my mind cancel the order,cancel_order
+show me your beverages,menu_query
+when does the restaurant open on sunday,restaurant_hours
+what is the restaurant address,restaurant_location
+book me a table for 6 tonight at 6:30 pm,table_booking
+show my previous orders,previous_order
+suggest vegetarian spicy food under 150,food_recommendation
+hi i need some help,greeting
+bye have a good day,goodbye
+modify my booking to 6 people,modify_booking
+what desserts do you have,menu_query
+suggest something spicy under 250,food_recommendation
+get me 2 chole bhature,place_order
+suggest a good starter,food_recommendation
+table booking for 8 people at 9 pm on sunday,table_booking
+can you change my order,modify_order
+how can i pay,payment_query
+i would like to order chicken biryani,place_order
+can i get a table for 8 at 9 pm tomorrow,table_booking
+shift my reservation to 8:30 pm,modify_booking
+show my previous orders,previous_order
+wonderful experience will visit again,review
+list all dishes under 250 rupees,menu_query
+play some music,unknown
+how far is the moon,unknown
+where exactly are you situated,restaurant_location
+add one more coke to my order,modify_order
+the delivery took too long,complaint
+play some music,unknown
+who is the prime minister,unknown
+place an order for 6 pizzas,place_order
+order 5 cold coffees,place_order
+hi,greeting
+do you accept digital wallets,payment_query
+what time do you close,restaurant_hours
+order 4 cold coffees,place_order
+the food quality was very poor today,complaint
+show me the menu,menu_query
+cancel my recent order,cancel_order
+are you open on public holidays,restaurant_hours
+show me your beverages,menu_query
+what is the capital of france,unknown
+the food was cold when it arrived,complaint
+i want two paneer pizzas and one coke,place_order
+what time do you close,restaurant_hours
+remove one pizza from my order,modify_order
+are you open now,restaurant_hours
+get me 2 chole bhature,place_order
+give me my order history,previous_order
+add gulab jamun to my order,place_order
+cancel booking please,cancel_booking
+wonderful experience will visit again,review
+update my order to 8 items,modify_order
+thanks bye,goodbye
+when do you close tonight,restaurant_hours
+please cancel the order,cancel_order
+what desserts do you have,menu_query
+is there a payment gateway,payment_query
+is cash on delivery available,payment_query
+hi,greeting
+wonderful experience will visit again,review
+can you write code for me,unknown
+suggest something not too spicy,food_recommendation
+list your starters,menu_query
+my order was incorrect,complaint
+i changed my mind cancel the order,cancel_order
+goodbye,goodbye
+show my past reservations,previous_order
+the biryani was amazing,review
+where are you located,restaurant_location
+place order for spicy veg pasta,place_order
+reduce my order by one item,modify_order
+where are you located,restaurant_location
+great food loved the paneer tikka,review
+cancel my table for tonight,cancel_booking
+ok thanks bye,goodbye
+suggest a popular main course,food_recommendation
+the delivery took too long,complaint
+what dishes do you have,menu_query
+can you recommend a dessert,food_recommendation
+can you cancel my booking,cancel_booking
+hey,greeting
+update my order to 4 items,modify_order
+is there a payment gateway,payment_query
+when do you open,restaurant_hours
+show my past reservations,previous_order
+change my order to two portions,modify_order
+thanks bye,goodbye
+i need a reservation for 3 people at 8 pm,table_booking
+add 2 veg biryani to my cart,place_order
+update my order to 8 items,modify_order
+when do you open,restaurant_hours
+show me your beverages,menu_query
+hello restaurant,greeting
+suggest something spicy under 200,food_recommendation
+recommend a vegetarian dish,food_recommendation
+i want to order masala dosa,place_order
+change my order to two portions,modify_order
+do you have parking at your location,restaurant_location
+can i see the food menu,menu_query
+what vegetarian options are available,menu_query
+send me your location,restaurant_location
+hiya,greeting
+cancel my recent order,cancel_order
+cancel my table for tonight,cancel_booking
+can i change my booking date,modify_booking
+what is your best dish,food_recommendation
+what should i order,food_recommendation
+what are your opening hours,restaurant_hours
+can you change my order,modify_order
+what dishes do you have,menu_query
+hello restaurant,greeting
+what are your opening hours,restaurant_hours
+what dishes do you have,menu_query
+update my reservation time to 7 pm,modify_booking
+suggest a good starter,food_recommendation
+change the guest count to 6 for my booking,modify_booking
+food was okay but overpriced,review
+are you open now,restaurant_hours
+my order was delayed by an hour,complaint
+edit my order please,modify_order
+please cancel my table booking,cancel_booking
+bye have a good day,goodbye
+what should i order,food_recommendation
+what main courses do you offer,menu_query
+cancel my order,cancel_order
+hello can you help me,greeting
+please cancel the order,cancel_order
+i want to order masala dosa,place_order
+hello can you help me,greeting
+i do not want the table anymore cancel it,cancel_booking
+when do you close tonight,restaurant_hours
+modify my booking to 6 people,modify_booking
+the food was cold when it arrived,complaint
+this is the worst experience i have had,complaint
+cancel order number,cancel_order
+hiya,greeting
+can i pay by card at the counter,payment_query
+reschedule my reservation to 9 pm,modify_booking
+what time is it,unknown
+reserve a table for 4 this weekend at 6:30 pm,table_booking
+i need to cancel my reservation for tomorrow,cancel_booking
+hey there,greeting
+my order was delayed by an hour,complaint
+till what time are you open,restaurant_hours
+the food was cold when it arrived,complaint
+how do i get to your restaurant,restaurant_location
+update my reservation time to 7 pm,modify_booking
+suggest a popular main course,food_recommendation
+see you later,goodbye
+cancel my reservation for saturday,cancel_booking
+can you change my order,modify_order
+hi,greeting
+hi i need some help,greeting
+order two paneer pizzas and one coke,place_order
